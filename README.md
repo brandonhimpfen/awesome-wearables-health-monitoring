@@ -50,6 +50,7 @@ Systems used in clinical and home settings for continuous monitoring of patient 
 - [BioIntelliSense](https://biointellisense.com/) — Wearable biosensors for continuous health monitoring.
 - [Current Health](https://www.currenthealth.com/) — Remote patient monitoring platform for healthcare providers.
 - [Philips Remote Patient Monitoring](https://www.philips.com/healthcare/solutions/remote-patient-monitoring) — Solutions for monitoring patients outside clinical settings.
+- [SPLYT: POTS](https://splyt.fit/pots) — Free iPhone and Apple Watch app for people with POTS that tracks heart rate against a personal baseline, runs a 10-minute stand test on the watch, and produces a report for clinicians.
 
 ## Fitness & Activity Tracking
 
