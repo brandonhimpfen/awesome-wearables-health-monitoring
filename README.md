@@ -37,6 +37,7 @@ Consumer and clinical-grade devices designed to monitor physiological and activi
 
 Platforms and developer tools for collecting, integrating, and analyzing wearable health data.
 
+- [Aidlab SDK](https://www.aidlab.com/developer) — SDK for collecting raw ECG, respiration, RR intervals and motion from Aidlab chest-worn wearables on Python, Android, Apple platforms, Flutter and Unity.
 - [Apple HealthKit](https://developer.apple.com/healthkit/) — Framework for integrating health and fitness data on iOS devices.
 - [CareClinic](https://careclinic.io/features/health-data-integrations/) — Personal health platform that imports Apple Health and Fitbit data and supports Apple Watch check-ins.
 - [Google Fit](https://developers.google.com/fit) — Platform for collecting and analyzing fitness and health data.
